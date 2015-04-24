@@ -28,6 +28,7 @@ The set up to run are StarCraft AI is as follows:
 - - - - 
 ###*Contributions*###
 The main roles for this project were as follows:
+
 Implementors: Adam & Kevin (Strategists & Programming)
 
 Documentors: Sean (ReadMe, JavaDocs), Logan (JavaDocs, Final Report), and Brian (Website, Final Report)
