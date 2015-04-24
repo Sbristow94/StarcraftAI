@@ -1,2 +1,0 @@
-# StarcraftAI
-Starcraft AI
